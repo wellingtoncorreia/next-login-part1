@@ -1,0 +1,3 @@
+npm install js-cookie
+npm install -D @types/js-cookie
+npm install axios
